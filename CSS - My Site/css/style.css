@@ -1,0 +1,146 @@
+.top_container {
+  background-color: #E4F9f5;
+  position: relative;
+  padding-top: 100px;
+}
+
+body {
+  margin-top: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+.profile-picture {
+  margin: 50px auto 50px auto;
+  width: 12%;
+  border-radius: 8px;
+}
+.profile{
+  margin: 40px auto 60px auto;
+}
+.skills-image {
+width: 35%;
+border-radius: 8px;
+float: left;
+margin-right: 30px;
+}
+
+.gamer-image {
+width: 47%;
+border-radius: 8px;
+float: right;
+margin-left: 30px;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #66BFBF;
+  margin: 0px auto auto auto;
+  font-size: 2.2rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.middle-container {
+  padding-bottom: 4%;
+}
+
+.bottom-container {
+  margin: auto auto auto auto;
+  padding-top: 4%;
+  background-color: #66BFBF;
+  height: 7rem;
+  line-height: 2;
+}
+
+.top_cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom_cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+  line-height: 2;
+  font-size: 85%;
+}
+.footer-link{
+  margin-right: 2%;
+}
+
+.Hi{
+  margin-bottom: 32px;
+}
+.who-am-I{
+  color: #40514E;
+}
+
+hr{
+  margin: auto auto 4% auto;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #84a9ac;
+  border-width: 5px;
+  width: 5%;
+}
+
+.get-in-touch{
+  margin: 3.5% auto 3.5% auto;
+}
+.btn{
+  margin: 3.5% auto 3.5% auto;
+}
+.tm{
+  padding-top: 0.8%;
+  color: #EAF6F6;
+  font-size: 0.75rem;
+}
+.myButton {
+	background-color:#11cdd4;
+	border-radius:13px;
+	border:1px solid #36a7e3;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	padding:13px 20px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+  margin-top: 1.6rem;
+}
+.myButton:hover {
+	background-color:#11999e;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
